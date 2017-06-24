@@ -1,0 +1,22 @@
+
+
+{
+ "wallpapers": [
+ {
+ "author": "Dr.Marwan",
+ "url": "https://raw.githubusercontent.com/drmarwaan/vwall/master/galaxy2.jpg",
+ "name": "galaxy2"
+ },
+
+ {
+ "author": "Dr.Marwan",
+ "url": "https://raw.githubusercontent.com/drmarwaan/vwall/master/couple4.jpg",
+ "name": "couple4"
+ },
+
+ { "author": "Tom Wellington",
+ "url": "https://raw.githubusercontent.com/drmarwaan/vwall/master/couple3.jpg",
+ "name":" couple3"
+ }
+ ]
+ }
